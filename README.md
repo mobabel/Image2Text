@@ -5,7 +5,12 @@ PHP Image to Text Converter.
 ## Overview
 This PHP service can convert jpeg or png image to visulization with pure custom text, keeping the raw color. Tools for SEO or other funny purpose.
 
-
+![Demo 1](https://raw.githubusercontent.com/mobabel/Image2Text/master/demo1.png "Demo 1")
+	
+![Demo 2](https://raw.githubusercontent.com/mobabel/Image2Text/master/demo2.png "Demo 2")
+	
+![Demo 3](https://raw.githubusercontent.com/mobabel/Image2Text/master/demo3.png "Demo 3")
+	
 ## Used Libs:
 
 
@@ -34,8 +39,8 @@ http://pkgs.repoforge.org/autotrace/   centos
 https://launchpad.net/ubuntu/+source/autotrace  //ubuntu
 	
 	
-better effection
-http://autotrace.sourceforge.net/index.html#download
+better effection	
+http://autotrace.sourceforge.net/index.html#download	
 http://www.roitsystems.com/cgi-bin/autotrace/tracer.pl
 
 
